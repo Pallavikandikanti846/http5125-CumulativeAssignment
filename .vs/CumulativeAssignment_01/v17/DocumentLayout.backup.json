@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\back_end\\Assignments\\http5125-CumulativeAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFF5FB5-7543-4BF3-AD6A-546E759E5FE5}|CumulativeAssignment_01\\CumulativeAssignment_01.csproj|f:\\back_end\\assignments\\http5125-cumulativeassignment\\cumulativeassignment_01\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFF5FB5-7543-4BF3-AD6A-546E759E5FE5}|CumulativeAssignment_01\\CumulativeAssignment_01.csproj|solutionrelative:cumulativeassignment_01\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "F:\\back_end\\Assignments\\http5125-CumulativeAssignment\\CumulativeAssignment_01\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "CumulativeAssignment_01\\Controllers\\TeacherAPIController.cs",
+              "ToolTip": "F:\\back_end\\Assignments\\http5125-CumulativeAssignment\\CumulativeAssignment_01\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "CumulativeAssignment_01\\Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:28:56.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
